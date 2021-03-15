@@ -46,3 +46,6 @@ MODELO FINAL:
     MSE: 0.22092239961241997
     MAE: 0.38204143416778236
     R^2: 0.40775596609311504
+
+Contato: carlos_bonfim10@hotmail.com
+Portfolio de Projetos: https://carlosbonfim.com/
