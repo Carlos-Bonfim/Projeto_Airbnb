@@ -34,12 +34,15 @@ Tive uma melhora significativa entre a baseline e o modelo final, separei 10% so
 O resultado final, com o conjunto de teste, ficou próximo do que eu tinha validado com os dados de treino e validação, não havendo overfitting e nem underfitting.
 
 Conclusões e Resultados
+
 BASELINE:
+
     MSE: 14404.359124812358
     MAE: 98.5996424320113
     R^2: 0.2230869229876291
 
 MODELO FINAL:
+
     MSE: 0.22092239961241997
     MAE: 0.38204143416778236
     R^2: 0.40775596609311504
