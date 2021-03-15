@@ -4,7 +4,7 @@
 1. Baixar os dados
 2. Análise Exploratória
 3. Machine Learning
-4. Separar em dois conjuntos de dados
+4. Separar o conjunto de dados original em dois conjuntos TREINO/TESTE:
  * 10% somente para TESTE no final
  * 90% para TREINO e VALIDAÇÃO
 5. Transformação dos dados
