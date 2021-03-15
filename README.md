@@ -47,5 +47,5 @@ MODELO FINAL:
     MAE: 0.38204143416778236
     R^2: 0.40775596609311504
 
-Contato: carlos_bonfim10@hotmail.com
+Contato: carlos_bonfim10@hotmail.com<br>
 Portfolio de Projetos: https://carlosbonfim.com/
