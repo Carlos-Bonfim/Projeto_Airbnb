@@ -1,4 +1,4 @@
-# Projeto_Airbnb
+# Projeto Airbnb: Previsão do preço da estadia (feature 'price')
 
 ## a. Como foi a definição da sua estratégia?
 1. Baixar os dados
