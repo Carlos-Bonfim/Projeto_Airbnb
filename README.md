@@ -23,7 +23,7 @@
 A função de custo foi definida avaliando a performance, reduzindo o MAE (Mean Absolute Error) e MSE (Mean Squared Error) e aumentando R^2 (R squared).
 
 ## c. Qual foi o critério utilizado na seleção do Modelo Final?
-O modelo que melhor performou entre as variações das features, transformações e definição dos melhores hiperparâmetros
+O modelo que obteve a melhor performance entre as variações das features, transformações e definição dos melhores hiperparâmetros
 
 ## d. Qual foi o critério utilizado para validação do modelo? Por que escolheu utilizar esse método?
 Acompanhei 3 métricas, olhando individualmente cada uma tem sua característica. O MAE basicamente ajusta com base na mediana e o MSE com base na média e o R^2 mostra o quanto o modelo é explicado pelas variáveis. Outro fator relevante e que influencia nessas métricas, são os outliers no qual tomei um certo cuidado em removê-los para não reduzir muito o conjunto de dados.
