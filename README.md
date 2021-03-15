@@ -4,9 +4,9 @@
 1. Baixar os dados
 2. Análise Exploratória
 3. Machine Learning
-4. Separar em dois conjuntos de dados
- * 10% somente para TESTE no final
+4. Separar o conjunto de dados original em dois conjuntos TREINO/TESTE:
  * 90% para TREINO e VALIDAÇÃO
+ * 10% somente para TESTE no final
 5. Transformação dos dados
 6. Definição da Baseline
 7. Analisar os resultados iniciais de vários modelos
